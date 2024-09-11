@@ -28,6 +28,10 @@ if (numero1 > numero2) {
   
 */
 
+const numero1 = 10;
+const numero2 = 20;
+const numero3 = 30;
+
 // 1. Imprimir en consola el número mayor de los tres
 if (numero1 > numero2 && numero1 > numero3) {
     console.log('El número mayor es:', numero1);

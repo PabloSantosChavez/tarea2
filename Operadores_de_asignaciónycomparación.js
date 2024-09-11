@@ -19,6 +19,10 @@ const numero3 = '25';
 
 */
 
+const numero1 = 15;
+const numero2 = 20;
+const numero3 = '25';
+
 //1. Muestre por consola si el numero1 es mayor o igual que numero2.
 if (numero1 >= numero2) {
     console.log('numero1 es mayor o igual que numero2');
